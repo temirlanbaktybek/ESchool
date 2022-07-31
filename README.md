@@ -33,5 +33,5 @@
 1 error
       role: org.apache.maven.model.validation.ModelValidator
   roleHint: ide)
-
+![Иллюстрация к проекту](https://github.com/temirlanbaktybek/ESchool/blob/main/error.bmp)
     ## 
